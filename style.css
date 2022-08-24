@@ -1,3 +1,16 @@
 body {
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Courier New', Courier, monospace;
+  color:blueviolet;
+  background: rgb(2,0,36);
+  background: linear-gradient(164deg, rgba(2,0,36,1) 0%, rgba(208,109,17,1) 35%, rgba(0,212,255,1) 100%);
 }
+input[name="im"] {
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-size: 93px;
+color:blueviolet;
+}
+input[name="imm"] {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 30px;
+  color: blue;
+  }
